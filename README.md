@@ -1,6 +1,6 @@
 # CHOMECHAT
 
-Chomechat is an application from chome
+Chomechat is an application from chome. \n
 Chat with friends
 
 # REALESE
