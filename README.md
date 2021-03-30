@@ -12,3 +12,8 @@ Later you will be able to download the app for Dekstop.
 
 The Page is made with react. __LINK TO REACT__
 The Desktop application is build with electron. __LINK TO ELECTRON__
+
+
+- [x] REACT
+- [x] ELECTRON
+- [ ] SLOW
