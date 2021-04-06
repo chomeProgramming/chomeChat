@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/chomeChat">
+        <Route exact path="/chomeChat/">
           <Home />
         </Route>
       </Switch>
